@@ -4,10 +4,10 @@
 
 ## Requirements
 * Python installed on your machine: https://www.python.org/downloads/<br />
-* Make the script executable via the following terminal command: chmod +x texas_plate_generator.py<br />
 * Pytest installed via pip: https://docs.pytest.org/en/7.1.x/getting-started.html <br />
 
 ## How to run
+chmod +x texas_plate_generator.py (This is to make the script executable) <br />
 ./texas_plate_generator.py
 
 ## How to run the tests
